@@ -1,0 +1,32 @@
+.cart-info{
+    padding: 2px;
+    margin-left: 5px; 
+}
+
+.add-del{
+   
+    color: white;
+    background-color: #3f767e;
+    width: 17px;
+    height: 17px;
+}
+
+.cart-count{
+    font-size: 18px;
+}
+
+.btn-cart{
+     color: #3f767e;
+     font-size: 18px;
+     font-weight: bold;
+     background-color: white;
+     width: 100px;
+     height:40px;
+     border-radius: 3px;
+     border: 2px solid white;
+}
+
+.modal-heading{
+    background-color: #3f767e;
+    color: white;
+}
